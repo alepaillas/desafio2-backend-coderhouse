@@ -1,0 +1,11 @@
+{
+  "name": "manejo-de-archivos-con-node-js",
+  "version": "1.0.0",
+  "description": "Desafío 2 del curso de Backend de Coderhouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandra Paillas",
+  "license": "ISC"
+}
