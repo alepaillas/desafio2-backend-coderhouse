@@ -1,11 +1,13 @@
 {
   "name": "manejo-de-archivos-con-node-js",
   "version": "1.0.0",
+  "type": "module",
   "description": "Desafío 2 del curso de Backend de Coderhouse",
-  "main": "index.js",
+  "main": "ProductManager.mjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./ProductManager.mjs"
   },
   "author": "Alejandra Paillas",
-  "license": "ISC"
+  "license": "GPL-3.0"
 }
